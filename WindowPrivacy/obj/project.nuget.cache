@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmtiK+YBJnA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NU\\source\\repos\\WindowPrivacy\\WindowPrivacy\\WindowPrivacy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NU\\.nuget\\packages\\clickabletransparentoverlay\\11.0.1\\clickabletransparentoverlay.11.0.1.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\imgui.net\\1.90.9.1\\imgui.net.1.90.9.1.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\sharpgen.runtime\\2.1.2-beta\\sharpgen.runtime.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\sharpgen.runtime.com\\2.1.2-beta\\sharpgen.runtime.com.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\vortice.d3dcompiler\\3.5.0\\vortice.d3dcompiler.3.5.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\vortice.direct3d11\\3.5.0\\vortice.direct3d11.3.5.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\vortice.directx\\3.5.0\\vortice.directx.3.5.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\vortice.dxgi\\3.5.0\\vortice.dxgi.3.5.0.nupkg.sha512",
+    "C:\\Users\\NU\\.nuget\\packages\\vortice.mathematics\\1.7.8\\vortice.mathematics.1.7.8.nupkg.sha512"
+  ],
+  "logs": []
+}
