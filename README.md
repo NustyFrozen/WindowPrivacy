@@ -14,7 +14,7 @@ in the future i plan to make the program attempt to take pictures every so often
 this tool injects to the selected process (using CRT -> LoadLibrayA) a DLL that calls Win32::SetWindowsAffinity
 to change the Process Windows content access either Monitor Only (WDA_MONITOR) or everything (WDA_NONE)
 
-the reason it require injection because "The window must belong to the current process." - [SetWindowDisplayAffinity function (winuser.h)](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowdisplayaffinity).
+the reason it require injection is because "The window must belong to the current process." - [SetWindowDisplayAffinity function (winuser.h)](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowdisplayaffinity).
 
 Therefore it may not work on video games with anti-cheat and is NOT RECOMMENDED to be used as the risk of a ban since it calls openProcess
 
